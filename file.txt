@@ -1,1 +1,2 @@
 Nesto po liniji 2\nNesto po drugoj
+Ovo je drugi tekst
